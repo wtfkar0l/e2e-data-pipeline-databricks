@@ -53,7 +53,7 @@ Aqui, os dados da Silver são **agregados, transformados e modelados** em um **e
 ## 📑 Índice de Análises
 
 1. [Faturamento Mensal](#1--faturamento-mensal)
-2. [Top 5 Estados por Faturamento](#2--top-5-estados-por-faturamento)
+2. [Top 5 Estados por Faturamento](#2-top-5-estados-por-faturamento)
 3. [Top 10 Categorias Mais Vendidas](#3--top-10-categorias-mais-vendidas)
 4. [Variação Percentual do Faturamento (MoM)](#4--variação-percentual-do-faturamento-mom)
 
@@ -85,7 +85,7 @@ Aqui, os dados da Silver são **agregados, transformados e modelados** em um **e
 
 ---
 
-## 2. 🗺️ Top 5 Estados por Faturamento
+## 2. Top 5 Estados por Faturamento 🗺️
 **Quais são os 5 estados que mais geram receita para o negócio?**
 
 <img width="1538" height="1064" alt="Customer Distribution by customer_state" src="https://github.com/user-attachments/assets/b55b2632-8534-44f6-a513-5ca75e54b4bf" />
