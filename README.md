@@ -276,8 +276,8 @@ Aqui, os dados da Silver são **agregados, transformados e modelados** em um **e
 
 O projeto está dividido em dois notebooks principais:
 
-1.  `[Nome do notebook de ETL].ipynb`: Contém todo o código PySpark para o pipeline Bronze -> Silver -> Gold.
-2.  `[Nome do notebook de Análise].ipynb`: Contém todas as queries SQL de análise feitas na camada Gold.
+1.  `Olist ETL.ipynb`: Contém todo o código PySpark para o pipeline Bronze -> Silver -> Gold.
+2.  `Análise de Vendas Olist.ipynb`: Contém todas as queries SQL de análise feitas na camada Gold.
 
 
 ---
